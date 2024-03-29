@@ -45,3 +45,6 @@ Provides SQL queries for generating KPIs and visualizations for each dashboard, 
 ## Usage
 
 Modify the provided SQL queries as per the specific database schema and requirements. Customize dashboard visualizations and charts based on preferred data visualization tools or platforms.
+
+![image](https://github.com/Ganeshkarwa/Financial-Domain-Analysis/assets/140792447/f0233924-c09c-47a3-83f7-e01d337aa64c)
+
